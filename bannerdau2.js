@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2iJjSIf' target='_blank'><img src='http://bit.ly/2iJjSIf' width='500px'/><br/>ghế xoay cao cấp</a>. Ghế xoay giá rẻ. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://hoaphatmiennam.vn' target='_blank'><img src='https://hoaphatmiennam.vn/wp-content/uploads/2017/07/ghe-xoay-luoi-hoa-phat-GL104.jpg' width='500px'/><br/>ghế xoay cao cấp</a>. Ghế xoay giá rẻ. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
